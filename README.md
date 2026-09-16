@@ -6,7 +6,7 @@ echo tonto
 
 # Esto es un titulo como h1
 ## Esto es un titulo como h2
-*Esto es para poner en negrita*
+Esto es para poner en negrita
 
 _Esto es para ponerla curvada_
 
