@@ -1,3 +1,3 @@
 # prueba
 Hola
-(/Tema1/prueba.txt)
+(/Tema1/prueba)
